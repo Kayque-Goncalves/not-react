@@ -1,0 +1,8 @@
+{
+  "name": "not-react",
+  "version": "1.0.0",
+  "description": "This is not a react application",
+  "repository": "https://github.com/Kayque-Goncalves/not-react",
+  "author": "Kayque Gonçalves <kayque.gsilva229@gmail.com>",
+  "license": "MIT"
+}
